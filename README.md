@@ -12,7 +12,7 @@ A sweet and smoky dish that's sure to please everyone at your next barbecue.
 [Image of Cherry Cola Ribs]
 * **No-Bake Cheesecake Flag Cake** 🇺🇸 🍰 🏳
 A festive and delicious dessert that's perfect for any occasion.
-[Image of No-Bake Cheesecake Flag Cake]
+[Image of No-Bake Cheesecake Flag Cake] (https://www.allrecipes.com/thmb/txuwEfsJNQhmrFY4_liK_RiVXvk=/364x242/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1225928-8e3d7d3d6c2a4057b3eb1a50413a9a92.jpg)
 
 ## Ingredients
 
