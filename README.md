@@ -45,6 +45,6 @@ This recipe is for a delicious and festive no-bake cheesecake cake that's perfec
 * If you don't have a 9x11-inch baking dish, you can use a 9-inch round cake pan. Just be sure to adjust the baking time accordingly.
 * You can use any type of berries you like for the topping. Blueberries and strawberries are traditional, but raspberries, blackberries, and even cherries would be delicious.
 * This cake can be made ahead of time and stored in the refrigerator for up to 3 days.
-* Enjoy! 🇺🇸 🍰 🏳️‍🌈
+* Enjoy! 🇺🇸 🍰 
 
 ![Image of No-Bake Cheesecake Flag Cake] 
