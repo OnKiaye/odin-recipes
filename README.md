@@ -1,4 +1,5 @@
 # Odin Recipes
+live site : https://onkiaye.github.io/odin-recipes/
 
 This website is home to a collection of delicious recipes, all made with fresh, high-quality ingredients. Whether you're in the mood for something sweet or savory, we have a meal that's perfect for you.
 
@@ -46,4 +47,4 @@ This recipe is for a delicious and festive no-bake cheesecake cake that's perfec
 * This cake can be made ahead of time and stored in the refrigerator for up to 3 days.
 * Enjoy! 🇺🇸 🍰 🏳️‍🌈
 
-![Image of No-Bake Cheesecake Flag Cake] (https://www.allrecipes.com/thmb/txuwEfsJNQhmrFY4_liK_RiVXvk=/364x242/filters:no_upscale():max_bytes(150000):strip_icc():focal(479x0:481x2):format(webp)/1225928-8e3d7d3d6c2a4057b3eb1a50413a9a92.jpg)
+![Image of No-Bake Cheesecake Flag Cake] 
