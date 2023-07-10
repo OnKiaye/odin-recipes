@@ -15,12 +15,19 @@ body {
     margin-bottom: 20px;
   }
 
+
   .intro {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 1.125rem;
+    width: 646px;
+    font-style: italic;
+    margin: 20px auto 0;
   }
+
   
   .card-container {
   display: flex;
