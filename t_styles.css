@@ -14,6 +14,7 @@ body {
   }
   
   .container {
+    height: 150vf;
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
@@ -170,19 +171,46 @@ body {
   }
   /*header*/
   .header{
-    height: 100vh;
+    height: 1px;
   }
   ul{
-    float: right;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+    /*float: right;*/
     list-style-type: none;
-    margin-top: 30px;
-    min-height: 400px;
-    margin-right: 60px;
+    margin-top: 20px;
+    min-height: 4px;
+    margin-right: 0;
     font-size: 17px;
   }
 
   ul li {
     display: inline-block;
+  }
+
+  ul li a{
+    text-decoration: none;
+    color: #292929;
+    padding: 5px 20px;
+    border: ipx solid transparent;
+    transition: 0.5 ease;
+  }
+
+  ul li a:hover{
+    background-color: rgb(219, 88, 88);
+    color: #fff;
+  }
+
+  .logo img {
+    float: left;
+    width: 150px;
+    height: auto;
+  }
+
+  .h-main{
+    max-width: 1165px;
+    margin: auto;
   }
   
   /*footer*/
