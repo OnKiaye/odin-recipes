@@ -3,6 +3,13 @@ body {
     margin: 0;
     padding: 0;
   }
+
+  .backgroundimage {
+    background-image: url('./images/elena-leya-DBVIb_rWUKw-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
   
   .container {
     max-width: 1000px;
