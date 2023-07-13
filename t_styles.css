@@ -8,13 +8,13 @@ body {
     background-image: url('./images/23-min.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 150vh;
+    height: 100vh;
     
     max-width: 10000px;
   }
   
   .container {
-    height: 150vf;
+    height: 100vh;
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
@@ -280,15 +280,15 @@ footer{
   position: relative;
   width: 100%;
   height: auto;
-  padding: 50px 100px;
+  padding: 50px 0;
   background: #111;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  width: 1165px;
 }
 
 .f_container{
+  width: 100%;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
