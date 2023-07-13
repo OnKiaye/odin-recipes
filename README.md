@@ -1,5 +1,5 @@
 # Odin Recipes
-live site : https://onkiaye.github.io/odin-recipes/ {currently unpublished}
+live site : https://onkiaye.github.io/odin-recipes/ {website under works}
 
 This website is home to a collection of delicious recipes, all made with fresh, high-quality ingredients. Whether you're in the mood for something sweet or savory, we have a meal that's perfect for you.
 
